@@ -1,0 +1,17 @@
+{
+  "name": "gitea-github-migrator",
+  "version": "0.0.0",
+  "description": "A utility for syncing repositories to gitea from github",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Calvin Echols",
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/auth-token": "^5.1.1",
+    "@octokit/rest": "^20.1.1",
+    "gitea-js": "^1.21.2"
+  }
+}
