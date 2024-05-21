@@ -1,7 +1,7 @@
 {
-  "name": "gitea-github-migrator",
+  "name": "github-gitea-migrator",
   "version": "0.0.0",
-  "description": "A utility for syncing repositories to gitea from github",
+  "description": "A utility for syncing repositories from github to gitea",
   "main": "index.js",
   "type": "module",
   "scripts": {
